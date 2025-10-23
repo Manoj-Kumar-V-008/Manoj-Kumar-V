@@ -1,4 +1,4 @@
 # Manoj-Kumar-V
 This is my first Git repository
-<hr>
+<br>
 Author : Manoj Kumar V
